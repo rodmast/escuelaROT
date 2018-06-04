@@ -5,3 +5,7 @@ function commit(){
 function update(){
     //TODO: update con visual studio code
 }
+
+function date(){
+    //TODO: vsc
+}

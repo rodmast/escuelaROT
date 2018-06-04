@@ -5,3 +5,7 @@ function prueba(){
 function hola(){
     console.log('hola 2');
 }
+
+function sublime(){
+	console.log('sublime text');
+}
